@@ -16,9 +16,9 @@ A smart way to share files, announcements and quickly access all your online cla
 1. clone this repo in your system
 <code>git clone https://github.com/VH-Tech/StudyRooms.git</code> 
 
-2. unzip the file <code>studyrooms.zip</code>
+2. unzip the file <code>studyroomsfinal.zip</code>
 
-3. change your directory to <code>studyrooms/app/</code>
+3. change your directory to <code>studyroomsfinal/app/</code>
 
 4. open your terminal in this directory and run <code>python3 manage.py runserver</code>
 
